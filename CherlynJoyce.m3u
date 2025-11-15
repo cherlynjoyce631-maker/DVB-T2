@@ -989,7 +989,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/CCTV_4/manifest.mpd|user-agent=IndiH
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/nhkworld/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 tvg-id="TV5Monde.id" group-title="Entertainment" ch-number="186" tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-m.png",TV5Monde HD
+#EXTINF:-1 tvg-id="TV5Monde.id" group-title="Entertainment" ch-number="186" tvg-logo="https://images.indihometv.com/logo_tv5monde_big1.png",TV5Monde HD
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
